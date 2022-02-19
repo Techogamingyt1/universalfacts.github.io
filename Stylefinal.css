@@ -1,0 +1,51 @@
+#header {
+background-color:blue;
+color:red;
+text-align:center;} 
+
+#head {
+background-color:yellow;
+color:blue;
+text-align:center;
+width:600px;
+margin:0 auto;
+}
+
+#content{
+background-color:white;
+height:700px;
+width:800px;
+margin:0 auto;
+text-align:center;
+center;
+
+}
+
+#footer{
+background-color:black;
+color:white;
+
+
+}
+ 
+#img {
+text-align:center;
+margin:0 auto;
+border:20px
+
+}
+
+#ins{
+text-align:center;
+padding:10px;
+
+#body{
+font-family: Helvetica, arial , sans-serif;
+}
+
+
+
+
+#height{
+text-align:center;
+color:blueviolet;}
